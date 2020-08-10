@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-router-hooks/static/css/main.f80ebf94.chunk.css",
+    "main.js": "/react-redux-router-hooks/static/js/main.50d47a88.chunk.js",
+    "main.js.map": "/react-redux-router-hooks/static/js/main.50d47a88.chunk.js.map",
+    "runtime-main.js": "/react-redux-router-hooks/static/js/runtime-main.949753c6.js",
+    "runtime-main.js.map": "/react-redux-router-hooks/static/js/runtime-main.949753c6.js.map",
+    "static/js/2.2490e492.chunk.js": "/react-redux-router-hooks/static/js/2.2490e492.chunk.js",
+    "static/js/2.2490e492.chunk.js.map": "/react-redux-router-hooks/static/js/2.2490e492.chunk.js.map",
+    "index.html": "/react-redux-router-hooks/index.html",
+    "precache-manifest.3a50529f2c4237d9f4253f92aa9da8e6.js": "/react-redux-router-hooks/precache-manifest.3a50529f2c4237d9f4253f92aa9da8e6.js",
+    "service-worker.js": "/react-redux-router-hooks/service-worker.js",
+    "static/css/main.f80ebf94.chunk.css.map": "/react-redux-router-hooks/static/css/main.f80ebf94.chunk.css.map",
+    "static/js/2.2490e492.chunk.js.LICENSE.txt": "/react-redux-router-hooks/static/js/2.2490e492.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.949753c6.js",
+    "static/js/2.2490e492.chunk.js",
+    "static/css/main.f80ebf94.chunk.css",
+    "static/js/main.50d47a88.chunk.js"
+  ]
+}
